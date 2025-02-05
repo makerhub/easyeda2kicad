@@ -45,6 +45,7 @@ class LcscApi:
             manufacturer=manufacturer,
             manufacturer_pn=manufacturer_pn,
             lcsc_pn=lcsc_pn,
+            lcsc_url=lcsc_url,
             package=package,
             key_attributes=key_attributes,
             description=description,
